@@ -8040,3 +8040,11 @@ a.text-dark:hover {
 .invisible {
     visibility: hidden!important
 }
+
+.worck-exp-pera::before{
+    content: "• ";
+    display: inline;
+    font-weight: bold;
+
+
+}
